@@ -32,7 +32,6 @@ movies.csv – Contains movie details such as movieId, title, and genres.
 
 ratings.csv – Stores user ratings with columns userId, movieId, and rating.
 
-You can download the dataset files from this link.
 
 📝 How It Works
 
